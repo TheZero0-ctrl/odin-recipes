@@ -1,2 +1,2 @@
 # odin-recipes
-I followed the odin project tho make simple website using html
+I followed the odin project to make simple website using html
